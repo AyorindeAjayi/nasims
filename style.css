@@ -1,0 +1,19 @@
+@media (min-width: 992px) {
+
+    #homee{ border-bottom: 4px solid green;
+
+}
+
+}
+
+@media (max-width: 991px) {
+    .navbar-brand{
+        visibility: hidden;
+    }
+
+}
+
+
+h5{
+    font-size: 16px;
+}
